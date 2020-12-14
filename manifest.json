@@ -1,0 +1,119 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Chef to the Rescue!",
+    "short_name": "Chef to the Res",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://hardcore-noether-d4e0bb.netlify.app/",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/1223ff97-eb5a-74aa-1df0-1bd09572b311.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/98ea60ad-bbe9-f5df-bf57-7e106049d8c7.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/071dfa39-d311-5b51-a16f-c7ab2e47c48f.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e836c738-be42-f1c6-69a9-33e0630826f3.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/28c83dea-e5d9-fd62-e7c7-610e0f609cf6.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f445b124-ae75-e740-6460-c0ba04e5657c.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/badd70f8-5467-62d5-7ca9-22797498248b.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a29d68f6-7a92-6f2b-5cb1-d9fc9c520c19.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e4fcb92c-88cf-bdb4-0cee-f8e9e6dfe77a.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/83481d50-7d5c-a87f-1da7-b48138e66757.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/fda31398-1303-7ae2-3996-7b4e77f9c744.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/018892f4-901b-9868-0723-b2796523bf02.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/59b24f6f-3b5c-b21b-ed9e-abe730401ff1.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4a09bae8-ddc2-04aa-1fa2-36b0e76ee6ac.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6d2d88f4-36fe-067e-1785-d2b05532fb1a.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c3ce2eaa-3901-4844-fba3-d0b65d54f8e1.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d33cfaac-82ea-e720-9705-55d3b88d7ff7.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e438432c-e793-d315-644f-5fff0ad9aca6.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/93d8994c-09de-0740-f79b-5d8906175b5b.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2d107129-dc3c-4e08-40ee-ba79a69bd17d.webPlatform.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://hardcore-noether-d4e0bb.netlify.app/",
+    "screenshots": []
+}
