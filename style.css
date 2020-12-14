@@ -16,8 +16,3 @@
     border-radius: 5px;  
 }
 
-pwa-install {
-    --install-button-color: brown;
-    --modal-z-index: 20;
-    --modal-background-index: 20;
-}
