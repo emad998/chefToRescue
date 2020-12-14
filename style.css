@@ -18,5 +18,6 @@
 
 pwa-install {
     --install-button-color: brown;
-    --modal-z-index: 4;
+    --modal-z-index: 20;
+    --modal-background-index: 20;
 }
