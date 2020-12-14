@@ -15,3 +15,7 @@
 .measureBox {
     border-radius: 5px;  
 }
+
+pwa-install {
+    background-color: red;
+}
