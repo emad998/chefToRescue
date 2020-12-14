@@ -1,0 +1,17 @@
+.ingredientsBox {
+    margin-left: 25%;
+}
+
+.imageResult {
+    height: 500px;
+    width: 500px;
+    margin-left: 28%;
+} 
+
+.ingredientsBox {
+    border-radius: 5px;
+}
+
+.measureBox {
+    border-radius: 5px;  
+}
