@@ -16,3 +16,6 @@
     border-radius: 5px;  
 }
 
+pwa-install {
+    --install-button-color: brown;
+}
