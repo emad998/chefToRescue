@@ -16,3 +16,6 @@
     border-radius: 5px;  
 }
 
+pwa-install::part(openButton) {
+    width: 100%;
+}
